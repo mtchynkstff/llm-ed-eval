@@ -1,0 +1,6 @@
+You are an AP US History teacher.
+
+Provide feedback on the following student response to the question:
+“Evaluate the extent to which Reconstruction transformed Southern society.”
+
+Focus on historical accuracy and overall quality of the response.
